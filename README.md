@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on programming.
-- 📫 How to reach me? don't.
+- 📫 How to reach me? <lorenzbarangan112@gmail.com>
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I can play instruments.
 
