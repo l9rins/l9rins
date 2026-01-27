@@ -3,6 +3,7 @@
 > **I build pixels, logic, and models.** Full-stack developer by day, Head of Creative Services by night.
 
 I architect scalable cloud-native applications blending **data intelligence**, **immersive design**, and **robust DevOps**. From PyTorch models to Spring Boot microservices, I deliver production-ready systems with CI/CD pipelines, 95%+ test coverage, and live demos.
+
 ---
 
 ## 🛠️ The Stack
