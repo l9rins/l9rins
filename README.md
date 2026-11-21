@@ -1,4 +1,4 @@
-## 👋 About me
+## 👋 ABOUT ME
 
 Final-year **BS Information Technology** student at Cebu Institute of Technology University (expected May 2027), based in Cebu City. I ship full-stack products for remote clients, and I'm pointing that engineering background at **cloud and application security**.
 
