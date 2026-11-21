@@ -1,11 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Mark%20Lorenz%20Barangan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%86%92%20cloud%20%26%20application%20security&descSize=16&descAlignY=60" width="100%" alt="Mark Lorenz Barangan banner" />
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=I+build+web+products+end+to+end;I+break+things+in+labs+to+learn+how+to+defend+them;Securing+AI+agents+and+the+cloud+they+run+on)](https://github.com/l9rins)
-
-</div>
-
 ## 👋 About me
 
 Final-year **BS Information Technology** student at Cebu Institute of Technology University (expected May 2027), based in Cebu City. I ship full-stack products for remote clients, and I'm pointing that engineering background at **cloud and application security**.
