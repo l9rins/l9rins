@@ -1,68 +1,83 @@
-# 👋 Hi, I'm Mark Lorenz Barangan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Mark%20Lorenz%20Barangan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%86%92%20cloud%20%26%20application%20security&descSize=16&descAlignY=60" width="100%" alt="Mark Lorenz Barangan banner" />
 
-> **I build pixels, logic, and models.** Full-stack developer by day, Head of Creative Services by night.
+<div align="center">
 
-I architect scalable cloud-native applications blending **data intelligence**, **immersive design**, and **robust DevOps**. From PyTorch models to Spring Boot microservices, I deliver production-ready systems with CI/CD pipelines, 95%+ test coverage, and live demos.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=I+build+web+products+end+to+end;I+break+things+in+labs+to+learn+how+to+defend+them;Securing+AI+agents+and+the+cloud+they+run+on)](https://github.com/l9rins)
+
+</div>
+
+## 👋 About me
+
+Final-year **BS Information Technology** student at Cebu Institute of Technology University (expected May 2027), based in Cebu City. I ship full-stack products for remote clients, and I'm pointing that engineering background at **cloud and application security**.
+
+- 🔐 **Most interested in:** securing AI agents (identity, tool access, memory, guardrails) and the cloud infrastructure they run on
+- 🧪 **Learning by doing:** TryHackMe labs, Google Cloud GEAR skill badges, security meetups around Cebu
+- 🛠️ **Building:** a Redis-compatible database in Java, on-chain group lending on Stellar, and tools that make security practice repeatable
+- 📬 **Open to:** cybersecurity / cloud security internships and junior roles (Cebu or remote)
 
 ---
 
 ## 🛠️ The Stack
 
-My toolkit for the past year. I believe in using the right tool for the specific domain:
-
-| **Languages** | **Frameworks & Mobile** | **Data & AI** | **Cloud & DevOps** |
+| **Languages** | **Frameworks & Platforms** | **Data & ML** | **Cloud & DevOps** |
 | :--- | :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | |
 
-### 🧰 **Extended Toolbelt**
-* **Data:** NumPy, SciPy, Scikit-Learn, Matplotlib, Plotly, Apache Spark
-* **Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Firebase
-* **Creative:** Blender, ZBrush, Figma
-* **Langs:** R, Scala, C, Bash
+### 🔐 Security
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-lorenzbarangan112-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
+![AWS Academy](https://img.shields.io/badge/AWS_Academy-Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud GEAR](https://img.shields.io/badge/Google_Cloud_GEAR-4_skill_badges-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![ISC2](https://img.shields.io/badge/ISC2-Candidate-0D5EAF?style=flat-square)
+![Kibana](https://img.shields.io/badge/Kibana-threat_hunting-005571?style=flat-square&logo=kibana&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-awareness-000000?style=flat-square&logo=owasp&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-awareness-C8102E?style=flat-square)
+
+**Rooms completed:** OWASP Broken Access Control · Threat Hunting: Foothold
+**GEAR badges:** Model Armor · Agent Governance & Security · Secure Enterprise AI Agents · Multi-Agent Systems with ADK & MCP
 
 ---
 
 ## 🏗️ Selected Work
 
-### 📸 **[Foiné](https://github.com/yourusername/foine)**
-**The "Pinterest" for power users.**
-A full-stack image discovery engine built for performance and scale.
-* **Stack:** React, Spring Boot, MySQL
-* **The Win:** Engineered a responsive grid layout that handles high-res image collections with sub-second load times.
-
-### 📒 **[LedgerLift](https://github.com/l9rins/LedgerLift)**
-**Ending the spreadsheet chaos.**
-A revolutionary solution designed to liberate bookkeepers and small CPAs from the fragility of Excel-based accounting.
-* **Problem:** Manual entry errors and unscalable spreadsheet systems.
-* **Solution:** A robust, type-safe platform that streamlines financial tracking for modern professionals.
-
-### 💡 **[InspiroPick](https://github.com/l9rins/InspiroPick)**
-**Idea validation at scale.**
-A production-ready SaaS for discovering and managing startup ideas based on real user pain points.
-* **Stack:** Next.js 14, FastAPI, Docker
-* **The Build:** Enterprise-grade architecture featuring JWT auth, global error boundaries, and full containerization for seamless deployment.
+| | Project | What it is |
+| :-: | :--- | :--- |
+| 🗄️ | **[SutoyDB](https://github.com/l9rins/SutoyDB)** <br/> `Java 21` | A thread-safe, in-memory key-value store built from scratch with virtual threads, served over a Redis-compatible protocol. |
+| 🤝 | **[KapwaFi](https://github.com/l9rins/KapwaFi)** <br/> `TypeScript` `Stellar` `Soroban` | Grameen-style group lending on-chain. Groups of 4–8 pool mUSDC into a shared treasury and build portable reputation scores. Selected for the APAC Stellar Hackathon Demo Day. |
+| 🫀 | **[Heart Disease Prediction E2E](https://github.com/l9rins/Heart-Disease-Prediction-E2E-)** <br/> `XGBoost` `FastAPI` `React 19` `Docker` | End-to-end risk predictor on the UCI Cleveland dataset (303 records): about 0.85 accuracy, 0.90 ROC-AUC. Educational use only. |
+| ☁️ | **[AWS Cloud Security Policy Advisor](https://github.com/l9rins/aws-cloud-security-policy-advisor)** | Describe an AWS setup (EC2, S3, RDS) and get a prioritized security checklist: MFA, no public S3, no hardcoded credentials, private RDS. |
+| 🎓 | **[SecurCoachAI](https://github.com/l9rins/SecurCoachAI)** <br/> `Python` `React` `Streamlit` | A cybersecurity learning platform pairing a React auth UI with a Streamlit AI chat dashboard. |
+| 📈 | **[Graham & Doddsville](https://github.com/l9rins/graham-doddsville-website)** <br/> `HTML` `JavaScript` | A mobile-first PWA for an Australian value-investing education community, built for a remote client. |
 
 ---
 
-## ⚡ Recent Updates
+## 📚 Learning in Public
 
--   🔭 **Building:** A new personal portfolio with high-end UI/UX.
--   🌱 **Learning:** Advanced shading nodes & procedural textures in Blender.
--   🎨 **Creating:** An asset library of reusable 3D sports props.
+Recent events I've written up on LinkedIn:
+
+- ☁️ **AWS Community Day Cebu 2026**: security, infrastructure and AI tracks
+- 🛡️ **Cloud Security Alliance AI Security Summit 2026**: model supply chains, agent memory, AI-assisted attackers
+- 🌐 **DEVCON Cebu CyberSeries**: network security fundamentals and a hands-on routing workshop
+- 🤖 **Microsoft Agent-a-thon (Architect track)**: multi-agent orchestration and governance
 
 ---
 
 ## 📫 Let's Connect
 
-Where to find me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l9rinsishere/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-l9rins.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://l9rins.dev)
+[![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marklorenzbarangan@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_it_out-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+<div align="center">
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=l9rins&show_icons=true&hide_border=true&layout=compact&theme=transparent)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&layout=compact)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" alt="" />
