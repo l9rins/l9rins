@@ -63,7 +63,7 @@ Recent events I've written up on LinkedIn:
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l9rinsishere/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-l9rins.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://l9rins.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-l9rins.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://l9rins-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marklorenzbarangan@gmail.com)
 
 <div align="center">
